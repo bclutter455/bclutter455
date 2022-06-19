@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bclutter455
-- 👀 I’m interested in data and computer numarical control 
-- 🌱 I’m currently learning some C and visual stuff. do a lot of matlab
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in data and building nic nacs
+- 🌱 I’m currently learning some C and websites. Also did a lot of matlab for college 
 - 📫 Reach me here
 
 <!---
