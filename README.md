@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bclutter455
 - 👀 I’m interested in data and building nic nacs
-- 🌱 I’m currently learning some C and websites. Also did a lot of matlab for college 
+- 🌱 I’m currently learning some C and how to  make some small websites. Also did a lot of matlab for college 
 - 📫 Reach me here
 
 <!---
